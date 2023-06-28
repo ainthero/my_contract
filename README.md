@@ -1,3 +1,4 @@
+```
 Deploying 'MyContract'
    ----------------------
    > transaction hash:    0x4b1bc59b68afa92703e1a9679fdbadd9b7e417c0f4c8a12d830826420575ee86
@@ -11,3 +12,4 @@ Deploying 'MyContract'
    > gas price:           2.500000016 gwei
    > value sent:          0 ETH
    > total cost:          0.001400127508960816 ETH
+```
